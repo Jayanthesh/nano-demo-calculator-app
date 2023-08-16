@@ -3,6 +3,7 @@
 #include <string>
 #include <iostream>
 #include <conio.h>
+#include <math.h>
 int main()
 {
   crow::SimpleApp app;
